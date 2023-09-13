@@ -29,4 +29,4 @@ json
 1. Создайте проект с помощью Maven: mvn clean install.
 2. Запустите приложение: java -jar target/ Frequency-api.jar.
 3. API будет доступен по адресу http://localhost:8083/symbols.
-4. Использовать postman для передачи значения input или воспользоваться конструкцией http://localhost:8083/symbols?input=(написать строку для подсчета символов)
+4. Использовать postman для передачи значения input или воспользоваться конструкцией http://localhost:8083/symbols?input= (написать строку для подсчета символов)
