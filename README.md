@@ -27,8 +27,8 @@ GET /symbols?input=aaaaabcccc
 json
 {
   "a": 5,
-  "b": 1,
-  "c": 4
+  "c": 4,
+  "b": 1
 }
 
 
